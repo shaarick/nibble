@@ -1,0 +1,11 @@
+name: nib
+channels:
+  - defaults
+dependencies:
+  - python
+  - nltk
+  - spacy
+  - pip
+  - ipykernel
+  - autopep8
+prefix: /Users/shariq/opt/anaconda3/envs/nib
